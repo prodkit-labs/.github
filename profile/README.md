@@ -13,6 +13,9 @@ Each kit starts with working examples, local fixtures, benchmark scripts, operat
 - [Browser Automation Production Kit](https://github.com/prodkit-labs/browser-automation-production-kit)  
   A Python/Crawlee/Playwright starter for turning browser automation scripts into production jobs.
 
+- [FastAPI Auth Production Kit](https://github.com/prodkit-labs/fastapi-auth-production-kit)  
+  A FastAPI starter for authentication that survives the first production handoff.
+
 - [Instagram Competitor Intelligence](https://github.com/prodkit-labs/instagram-competitor-intelligence)  
   Python recipes for public competitor intelligence reports and scheduled monitoring.
 
@@ -26,4 +29,4 @@ Each kit starts with working examples, local fixtures, benchmark scripts, operat
 
 ## Interests
 
-Python · Automation · Public Data · Browser Automation · Benchmarking · Production Systems
+Python · FastAPI · Authentication · Automation · Public Data · Browser Automation · Benchmarking · Production Systems
